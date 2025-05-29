@@ -50,7 +50,7 @@ def get_conversational_chain():
     prompt_template = """
     You are a smart chatbot and give the answer the question as detailed as possible using the context provided.
     If the answer is not in the context, reply:
-    "answer is not available in the context - you can write an email to reference@iima.ac.in or you can call on 070 XXX XXXX number for more information".
+    "answer is not available in the context - you can write an email to info@yourdomain.com or you can call on 070 XXX XXXX number for more information".
     Do not make up any answer.
 
     Context:
