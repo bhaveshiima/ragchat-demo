@@ -99,8 +99,8 @@ def user_input(user_question):
 # --- Streamlit Web App ---
 def main():
     st.set_page_config("Chat with Multiple PDF")
-    st.image('logo//VSL_LOGO.png')
-    st.header("RAG-based Chat App: VSL IIMA Demo (Local)")
+    st.image('logo//YOUR_LOGO.png')
+    st.header("RAG-based Chat App: Demo (Local)")
     
     user_question = st.text_input("Ask a Question from the uploaded PDF files")
     if user_question:
