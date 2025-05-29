@@ -1,5 +1,5 @@
-# ragchat-demo
-RAG-based Chatbot
+# RAG-based Chatbot Demo
+RAG-based Chatbot that will search in your own knowledgebased.
 
 In this demo, we need Python 3.12 environment and OPENAI_API_KEY
 
